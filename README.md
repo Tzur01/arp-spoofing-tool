@@ -34,5 +34,5 @@ Press Ctrl+C to stop the ARP spoofing attack and restore ARP tables.
 
 
  ##
-Please note that this tool should only be used for authorized penetration testing and security assessment purposes. Unauthorized or unethical use of this tool on networks without explicit permission is illegal and irresponsible. The creator of this tool bears no responsibility for any misuse or unauthorized use, and users assume full responsibility for their actions when utilizing the tool.
+Please note that this tool should only be used for authorized penetration testing and security assessment purposes. Unauthorized or unethical use of this tool on networks without explicit permission is illegal and irresponsible. , and users assume full responsibility for their actions when utilizing the tool.
 
